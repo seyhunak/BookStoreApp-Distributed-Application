@@ -32,3 +32,4 @@ HELP.md
 *.mvn
 */Logs
 /Logs
+.vercel
